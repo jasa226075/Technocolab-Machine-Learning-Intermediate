@@ -1,1 +1,1 @@
-# Technocolab-Machine-Learning-Intermediate
+# Technocolab-Machine-Learning-Intro-Intermediate
